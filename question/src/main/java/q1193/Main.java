@@ -10,6 +10,7 @@ public class Main {
         int up=1;
 
         for (int odd = 1; odd < 20; odd +=2) {
+            System.out.println(up + " ");
             while (up <=odd){
                 System.out.print(up + " ");
                 up++;

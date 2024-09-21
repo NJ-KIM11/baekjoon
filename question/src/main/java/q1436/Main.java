@@ -1,4 +1,4 @@
-package q1463;
+package q1436;
 
 import java.util.Scanner;
 
